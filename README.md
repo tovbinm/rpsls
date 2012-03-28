@@ -15,3 +15,8 @@ To play this game just create a module that implements the [*rpsls_player*](http
 * Entries must compile to BEAM code but can be in any language that can do so - effenne, LFE, Elixir, etc.
 * Thanks to SpawnFest, which granted us the ticket, but we don't need it (we're already going) so we're having fun giving it away!                                                                            
 * Our decision is final!
+* 
+* Results:
+* http://inakanetworks.com/blog/2012/03/27/rock-paper-scissors-winner/
+* 
+* (Yeah! I @ 2nd place ;) )
